@@ -15,6 +15,9 @@
 # data in text files (YAML, JSON).
 # If you have even more courage, try implementing user interface.
 
+import sys
+
+sys.path.append('/home/stud2012/2piwnik/pite')
 from School import School
 from Student import Student
 from Student import Subject
