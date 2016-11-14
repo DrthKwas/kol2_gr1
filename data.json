@@ -1,0 +1,57 @@
+[
+  {
+    "py/object": "Student.Student",
+    "first_name": "Adam",
+    "subjects": [
+      {
+        "py/object": "Student.Subject",
+        "grades": [
+          5,
+          4,
+          5
+        ],
+        "attendance": 4,
+        "name": "pite"
+      },
+      {
+        "py/object": "Student.Subject",
+        "grades": [
+          5,
+          5,
+          5
+        ],
+        "attendance": 3,
+        "name": "zti"
+      }
+    ],
+    "sur_name": "Abacki"
+  },
+  {
+    "py/object": "Student.Student",
+    "first_name": "Jan",
+    "subjects": [
+      {
+        "py/object": "Student.Subject",
+        "grades": [
+          3,
+          4,
+          2,
+          5
+        ],
+        "attendance": 4,
+        "name": "pite"
+      },
+      {
+        "py/object": "Student.Subject",
+        "grades": [
+          4,
+          5,
+          5
+        ],
+        "attendance": 3,
+        "name": "zti"
+      }
+    ],
+    "sur_name": "Babacki"
+  }
+]
